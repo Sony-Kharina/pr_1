@@ -31,7 +31,6 @@ namespace Calculator
                     num2 = Convert.ToInt32(Console.ReadLine());
                 }
 
-                // Use a switch statement to do the math.
                 switch (v)
                 {
                     case "a":
